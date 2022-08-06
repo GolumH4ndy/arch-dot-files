@@ -2,7 +2,7 @@
 sudo pacman -Sy  
 sudo pacman -S wget  
 wget https://drive.google.com/drive/folders/1IG1x2LtXZt0iwWQhJYUHATDZU47Tcjuk?usp=sharing 
-cd Archinstall2 
+cd '1IG1x2LtXZt0iwWQhJYUHATDZU47Tcjuk?usp=sharing'
 mv -f .bashrc ~/ 
 mv -f .zshrc ~/ 
 mv -f .config ~/ 
